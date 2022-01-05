@@ -5,7 +5,7 @@
 Example:
 
 ```shell
-go get github.com/yougg/cmq-go-tdmq
+go get "github.com/rabbitmq/amqp091-go"
 ```
 - deadletter
 - helloworld
