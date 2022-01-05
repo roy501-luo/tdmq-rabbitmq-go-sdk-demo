@@ -1,7 +1,6 @@
 # Tencent TDMQ for RabbitMQ compatible Go SDK
 
-## 官方文档
-https://cloud.tencent.com/document/product/1495/64517
+**官方文档** : https://cloud.tencent.com/document/product/1495/64517
 
 Example:
 
